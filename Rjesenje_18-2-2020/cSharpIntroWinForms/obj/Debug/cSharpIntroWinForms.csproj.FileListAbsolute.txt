@@ -1,0 +1,396 @@
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\DLWMS.db
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe.config
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.pdb
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\EntityFramework.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\EnvDTE.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\stdole.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\EntityFramework.xml
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csprojAssemblyReference.cache
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.KorisniciAdmin.resources
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P8.KorisniciPolozeniPredmeti.resources
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Properties.Resources.resources
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.GenerateResource.cache
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.CopyComplete
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.exe
+C:\Users\Kira\Downloads\Programiranje-3-master\Ispiti\2020-01-21\Postavka\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.pdb
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\DLWMS.db
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe.config
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.pdb
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\EntityFramework.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\EnvDTE.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\stdole.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\EntityFramework.xml
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.xml
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csprojAssemblyReference.cache
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.KorisniciAdmin.resources
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P8.KorisniciPolozeniPredmeti.resources
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Properties.Resources.resources
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.GenerateResource.cache
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.CopyComplete
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.exe
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.pdb
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Solution.frmGlavna.resources
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Solution.frmGodinaStudija.resources
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Solution.frmIzvjestaj.resources
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\obj\Debug\RdlCompile.cache
+C:\Users\Dzeko\Desktop\III\PR 3\PR3-main\Februar_Postavka\cSharpIntroWinForms\obj\Debug\RdlCompile.compiled
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\DLWMS.db
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe.config
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.pdb
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\EntityFramework.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\EnvDTE.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\stdole.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\EntityFramework.xml
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.xml
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csprojAssemblyReference.cache
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.KorisniciAdmin.resources
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P8.KorisniciPolozeniPredmeti.resources
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Properties.Resources.resources
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Solution.frmGlavna.resources
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Solution.frmGodinaStudija.resources
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Solution.frmIzvjestaj.resources
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.GenerateResource.cache
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\RdlCompile.cache
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\RdlCompile.compiled
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.CopyComplete
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.exe
+C:\Users\Dzeko\Desktop\III\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.pdb
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\DLWMS.db
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe.config
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.pdb
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\EntityFramework.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\EnvDTE.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\stdole.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\EntityFramework.xml
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.xml
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csprojAssemblyReference.cache
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.KorisniciAdmin.resources
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P8.KorisniciPolozeniPredmeti.resources
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Properties.Resources.resources
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Solution.frmGlavna.resources
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Solution.frmGodinaStudija.resources
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Solution.frmIzvjestaj.resources
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.GenerateResource.cache
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\RdlCompile.cache
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\RdlCompile.compiled
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.CopyComplete
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.exe
+C:\Users\Dzeko\Desktop\IV\III semestar\PR 3\exams-Dz\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.pdb
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\DLWMS.db
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe.config
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.pdb
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\EntityFramework.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\EnvDTE.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\stdole.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\EntityFramework.xml
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.xml
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csprojAssemblyReference.cache
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.KorisniciAdmin.resources
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P8.KorisniciPolozeniPredmeti.resources
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Properties.Resources.resources
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Solution.frmGlavna.resources
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Solution.frmGodinaStudija.resources
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Solution.frmIzvjestaj.resources
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.GenerateResource.cache
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\RdlCompile.cache
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\RdlCompile.compiled
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.CopyComplete
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.exe
+C:\Users\Dzeko\Desktop\gitMaterials\18-2-2020\Rjesenje\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.pdb
